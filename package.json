@@ -1,0 +1,22 @@
+{
+  "name": "ng-classifieds",
+  "version": "1.0.0",
+  "description": "Classifieds listings application built with AngularJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hedbladucf/ng-classifieds.git"
+  },
+  "author": "hedbladucf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hedbladucf/ng-classifieds/issues"
+  },
+  "homepage": "https://github.com/hedbladucf/ng-classifieds#readme",
+  "dependencies": {
+    "angular": "^1.6.1"
+  }
+}
