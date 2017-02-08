@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/hedbladucf/ng-classifieds#readme",
   "dependencies": {
-    "angular": "^1.6.1"
+    "angular": "^1.6.1",
+    "angular-animate": "^1.5.8",
+    "angular-aria": "^1.5.8",
+    "angular-material": "^0.11.4",
+    "angular-ui-router": "^0.3.2",
+    "mdi": "^1.7.22"
   }
 }
